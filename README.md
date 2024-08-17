@@ -65,3 +65,6 @@ npm start
 ```
 
 This will start the Express server, and it should be running on `http://localhost:5000`.
+
+### 5. Contributing
+If you would like to contribute to this backend project, please fork the repository and submit a pull request with your proposed changes.
