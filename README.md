@@ -73,7 +73,7 @@ If you would like to contribute to this backend project, please fork the reposit
 
 ### Notes:
 - Replace `your-username` and `your-repo-name` with your GitHub username and repository name. This section includes detailed steps for installing dependencies, setting up environment variables, and running the project.
-- This `README.md` file is specifically tailored for setting up and running the backend server of your project.
+- This `README.md` file is specifically tailored for setting up and running the backend server of my project.
 
 
 ## Build using
