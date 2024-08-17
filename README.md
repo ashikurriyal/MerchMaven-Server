@@ -55,3 +55,11 @@ npm install
 ```
 
 This will install all the necessary packages listed in the `package.json` file.
+
+### 4. Start the Backend Server
+
+Once the dependencies are installed and the environment variables are set, you can start the backend server by running:
+
+```bash
+npm start
+```
