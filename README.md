@@ -69,6 +69,13 @@ This will start the Express server, and it should be running on `http://localhos
 ### 5. Contributing
 If you would like to contribute to this backend project, please fork the repository and submit a pull request with your proposed changes.
 
+
+
+### Notes:
+- Replace `your-username` and `your-repo-name` with your GitHub username and repository name. This section includes detailed steps for installing dependencies, setting up environment variables, and running the project.
+- This `README.md` file is specifically tailored for setting up and running the backend server of your project.
+
+
 ## Build using
 - **JavaScript** 
 - **React**
