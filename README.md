@@ -1,4 +1,4 @@
-# MerchMaven
+# MerchMaven Server
 
 MerchMaven is an online platform for browsing and purchasing gadgets and accessories. This project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and includes features like product categorization, search, sorting, pagination, and secure user authentication.
 
