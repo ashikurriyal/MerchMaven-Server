@@ -30,3 +30,28 @@ First, you need to clone the MerchMaven repository to your local machine. Open a
 git clone https://github.com/your-username/merchmaven.git
 cd merchmaven-server
 ```
+
+
+### 2. Navigate to the Project Directory
+
+After cloning the repository, navigate into the project directory:
+
+```bash
+cd merchmaven
+```
+
+### 3. Install Backend Dependencies
+
+The backend of MerchMaven is built using Node.js and Express.js. To set up the backend, you need to install the required Node.js packages. Navigate to the `backend` directory:
+
+```bash
+cd backend
+```
+
+Now, install the dependencies using npm:
+
+```bash
+npm install
+```
+
+This will install all the necessary packages listed in the `package.json` file.
