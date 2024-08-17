@@ -63,3 +63,5 @@ Once the dependencies are installed and the environment variables are set, you c
 ```bash
 npm start
 ```
+
+This will start the Express server, and it should be running on `http://localhost:5000`.
