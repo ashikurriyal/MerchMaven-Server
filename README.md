@@ -73,3 +73,6 @@ If you would like to contribute to this backend project, please fork the reposit
 - **JavaScript** 
 - **React**
 - **Tailwind**
+- - **Node.js**
+- **Express.js**
+- **Mongodb**
